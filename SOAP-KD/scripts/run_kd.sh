@@ -1,7 +1,7 @@
 #!/bin/bash
 
-ROOT_PATH="/scratch/dingx92/SOAP-KD/SOAP-KD_v2"
-DATA_PATH="/project/6000538/dingx92/datasets/FGSC-23_aligned/FGSC-23_aligned_224x224.h5"
+ROOT_PATH="Your_full_path/SOAP-KD/SOAP-KD_v2"
+DATA_PATH="Your_full_path/FGSC-23_aligned_224x224.h5"
 
 BETA=0.0
 
