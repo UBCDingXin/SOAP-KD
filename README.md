@@ -1,4 +1,4 @@
-Experiment for "Regression-Oriented Knowledge Distillation for Lightweight Ship Orientation Angle Prediction with Optical Remote Sensing Images"
+# Experiment for "Regression-Oriented Knowledge Distillation for Lightweight Ship Orientation Angle Prediction with Optical Remote Sensing Images"
 
 
 ## Dataset
