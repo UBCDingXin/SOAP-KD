@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.h5
+*.pt
+*.pth
+*.mat
+*.npz
+*.zip
+*.7z
+
+output/
+backup/
+tmp/
+ckpts/
+real_data/
+fake_data/
+results/
